@@ -51,6 +51,12 @@
          "id":13,
          "name":"enter-from-nicos",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":false,
          "width":100,
