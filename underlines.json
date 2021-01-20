@@ -67,7 +67,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meeting-room-1"
+                 "value":"meeting-room-1-underlines"
                 }],
          "type":"tilelayer",
          "visible":false,
